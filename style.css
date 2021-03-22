@@ -1,0 +1,15 @@
+
+#formula {
+  font-size: 25px;
+  font-family: monospace;
+}
+
+#trapezoidpic {
+  float: right;
+  width: 50%;
+  padding: 5px;
+}
+
+body {
+  background-color: lightblue;
+}
